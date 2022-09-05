@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mhd Abdul Rohman</h1>
-<h3 align="center">A passionate Mobile developer from Banyuwangi</h3>
+<h3 align="center">A passionate Mobile Developer from Banyuwangi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrohman70&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrohman70" /> </p>
 
