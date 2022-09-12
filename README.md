@@ -17,6 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=fazztrack&label=Profile%20views&color=129e00&style=plastic" alt="fazztrack" />
 </div>
 <hr>
-<img align="right" alt="fazztrack" width="400" src="https://fazztrack.com/_nuxt/img/about-page-hero.3a699a8.png">
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrohman70&show_icons=true&locale=en" alt="abdulrohman70" /></p>
