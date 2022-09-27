@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mhd Abdul Rohman</h1>
-<h3 align="center">A passionate Mobile developer from Banyuwangi</h3>
+<h3 align="center">Lifetime Learner</h3>
 <div id="header" align="center">
 
 
